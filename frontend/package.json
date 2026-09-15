@@ -1,0 +1,13 @@
+{
+  "name": "jogo-mario",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Jogo Mario Jump desenvolvido com HTML, CSS e JavaScript.",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "start": "vite --host 0.0.0.0"
+  },
+  "devDependencies": {
+    "vite": "^7.1.5"
+  }
+}
