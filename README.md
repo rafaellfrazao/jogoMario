@@ -72,10 +72,10 @@ Pressione uma tecla do teclado para fazer o Mario pular. Evite colidir com o tub
 
 | Nome | Matrícula | Papel |
 |---|---|---|
-| PREENCHER | PREENCHER | Scrum Master |
-| PREENCHER | PREENCHER | Desenvolvedor |
-| PREENCHER | PREENCHER | Documentador |
-| PREENCHER | PREENCHER | Testador |
+| Rafael Frazão| 01931995 | Scrum Master |
+| João Victor Sereno | 01927475 | Desenvolvedor |
+| Rafael Frazão | 01931995 | Documentador |
+| João Victor Sereno | 01927475 | Testador |
 
 ## Fluxo de branches
 
